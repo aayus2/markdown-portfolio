@@ -2,11 +2,12 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Image of an apple
 
 <br>
 
-{% include 02-image.md %}
+![Image of an apple](https://i2.wp.com/ceklog.kindel.com/wp-content/uploads/2013/02/firefox_2018-07-10_07-50-11.png?fit=641%2C618&ssl=1)
+
 
 <br>
 
