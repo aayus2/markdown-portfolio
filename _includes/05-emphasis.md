@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hello! I like *drawing* and I also enjoy *animating*. I animate on __Adobe Animate CC__ and __Sony Vegas Pro__ and I draw using __Clip Studio Paint__ and __Paint Tool Sai Ver.2__!
