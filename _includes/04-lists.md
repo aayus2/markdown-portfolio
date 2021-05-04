@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Drawing
+- Animation
+- Friday Night Funkin
+- The band Prozzak
+- The colour pink 💗
