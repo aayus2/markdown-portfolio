@@ -1,0 +1,5 @@
+- Drawing
+- Animation
+- Friday Night Funkin
+- The band Prozzak
+- The colour pink 💗
